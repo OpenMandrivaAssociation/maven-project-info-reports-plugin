@@ -1,6 +1,6 @@
 Name:           maven-project-info-reports-plugin
 Version:        2.2
-Release:        6
+Release:        8
 Summary:        Maven Project Info Reports Plugin
 
 Group:          Development/Java
