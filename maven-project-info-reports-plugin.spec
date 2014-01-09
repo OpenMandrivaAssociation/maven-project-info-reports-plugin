@@ -31,6 +31,10 @@ BuildRequires: maven-doxia-sitetools
 BuildRequires: plexus-containers-container-default
 BuildRequires: plexus-component-api
 BuildRequires: plexus-i18n
+%if 0%{?fedora}
+%else
+BuildRequires: plexus-digest
+%endif
 BuildRequires: plexus-utils
 BuildRequires: apache-commons-validator
 BuildRequires: httpunit
