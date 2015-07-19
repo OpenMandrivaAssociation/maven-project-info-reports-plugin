@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:           maven-project-info-reports-plugin
 Version:        2.7
-Release:        6.1
+Release:        6.2
 Summary:        Maven Project Info Reports Plugin
 Group:		Development/Java
 License:        ASL 2.0
